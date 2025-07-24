@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.font {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 65px;
+    font-style: bold;
+
+}
+
+.font2 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 22px;
+    font-style: normal;
+}
